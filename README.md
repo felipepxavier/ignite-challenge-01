@@ -1,6 +1,6 @@
 <h3 align="center">
 
-Desafio realizado no Programa Ignite - Trilha ReactJS - da [Rocketseat], utilizando _HTML, **CSS, **JAVASCRIPT, \*\*ReactJS_ e _Typescript_.
+Desafio realizado no Programa Ignite - Trilha ReactJS - da [Rocketseat], utilizando _HTML, \_CSS, \_JAVASCRIPT, \_ReactJS_ e _Typescript_.
 
 </h3>
 
@@ -53,7 +53,7 @@ $ yarn
 
 # Execute a aplicação em modo de desenvolvimento
 
-$ yarn start
+$ yarn dev
 
 <br>
 <br>
