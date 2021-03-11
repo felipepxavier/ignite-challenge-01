@@ -1,6 +1,6 @@
 <h3 align="center">
 
-Desafio realizado no Programa Ignite - Trilha ReactJS - da [Rocketseat], utilizando _HTML, CSS, JAVASCRIPT, ReactJS e Typescript_.
+Desafio realizado no Programa Ignite - Trilha ReactJS - da [Rocketseat], utilizando _ReactJS e TypeScript_.
 
 </h3>
 
